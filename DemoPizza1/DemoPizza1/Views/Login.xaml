@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="DemoPizza1.Views.Login"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Shell.NavBarIsVisible="False"
+    mc:Ignorable="d">
+    <RelativeLayout HorizontalOptions="Center" VerticalOptions="Center">
+
+        <Grid VerticalOptions="FillAndExpand">
+
+            <Image
+                x:Name="BPLogin"
+                AbsoluteLayout.LayoutBounds="0,0,1,1"
+                AbsoluteLayout.LayoutFlags="All"
+                Aspect="Fill"
+                IsVisible="true"
+                Source="BPLogin.png"
+                VerticalOptions="FillAndExpand" />
+
+            <StackLayout
+                Margin="40,100,40,0"
+                Padding="20"
+                BackgroundColor="#80F8F1E7"
+                VerticalOptions="CenterAndExpand">
+                <Label
+                    Margin="0,0,0,20"
+                    FontAttributes="Bold"
+                    FontSize="Large"
+                    Text="Inicio de sesión"
+                    TextColor="#E2700E" />
+
+                <Entry
+                    x:Name="T_NombreUsu"
+                    Margin="0,0,0,10"
+                    Placeholder="Nombre de usuario"
+                    PlaceholderColor="#F98F24"
+                    TextChanged="T_NombreUsu_TextChanged"
+                    TextColor="#FF8E00" />
+
+                <Entry
+                    x:Name="T_Password"
+                    Margin="0,0,0,10"
+                    IsPassword="True"
+                    Placeholder="Contraseña"
+                    PlaceholderColor="#F98F24"
+                    TextChanged="T_Password_TextChanged"
+                    TextColor="#FF8E00" />
+
+                <Button
+                    BackgroundColor="#E2700E"
+                    Clicked="Button_Clicked_1"
+                    Text="Iniciar Sesión"
+                    TextColor="White"
+                    VerticalOptions="Center" />
+
+                <StackLayout Margin="58,0,0,0" Orientation="Horizontal">
+                    <Label
+                        Margin="0,38,0,0"
+                        BackgroundColor="#00E2700E"
+                        FontAttributes="Bold"
+                        FontSize="12"
+                        HeightRequest="35"
+                        Text="¿No tienes una cuenta?"
+                        TextColor="#CB3D00"
+                        VerticalOptions="Center" />
+
+                    <Button
+                        Margin="0,20,0,0"
+                        BackgroundColor="#00E2700E"
+                        Clicked="Button_Clicked"
+                        FontAttributes="Bold"
+                        FontSize="12"
+                        HeightRequest="35"
+                        Text="Registrarte"
+                        TextColor="#CB3D00"
+                        VerticalOptions="Center" />
+                </StackLayout>
+            </StackLayout>
+        </Grid>
+    </RelativeLayout>
+</ContentPage>

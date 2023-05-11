@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XamlProjectMeta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Files>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\DemoPizza1\App.xaml</FilePath>
+      <Hash>FC-D3-8E-CD-72-6E-E7-18-F5-93-58-B2-C5-07-0D-93</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\DemoPizza1\Views\Home.xaml</FilePath>
+      <Hash>9B-25-BD-AB-6B-2C-C6-68-1D-89-E0-72-24-66-E0-73</Hash>
+      <Properties>
+        <string>Title</string>
+        <string>BackgroundImageSource</string>
+        <string>IconImageSource</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\DemoPizza1\Views\Login.xaml</FilePath>
+      <Hash>C3-A6-27-09-9F-44-8C-B7-92-25-48-7A-A7-D2-6E-84</Hash>
+      <Properties>
+        <string>Shell.NavBarIsVisible</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\DemoPizza1\Views\MainPage.xaml</FilePath>
+      <Hash>B8-AF-18-70-CA-68-D6-CC-8C-B3-AA-FB-BB-8E-3B-C5</Hash>
+      <Properties>
+        <string>BarBackgroundColor</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\DemoPizza1\Views\MenuBebidas.xaml</FilePath>
+      <Hash>3C-13-CE-88-F8-BB-72-56-B9-FB-46-BB-BC-AF-06-AE</Hash>
+      <Properties>
+        <string>Title</string>
+        <string>BackgroundImageSource</string>
+        <string>IconImageSource</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\DemoPizza1\Views\MenuCocteles.xaml</FilePath>
+      <Hash>08-C8-BA-A4-FC-66-6A-A6-8B-1C-B1-91-64-99-3D-6D</Hash>
+      <Properties>
+        <string>Title</string>
+        <string>BackgroundImageSource</string>
+        <string>IconImageSource</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\DemoPizza1\Views\MenuPizza.xaml</FilePath>
+      <Hash>35-CA-F3-47-C9-81-5B-95-DB-F9-27-AE-48-FD-02-E6</Hash>
+      <Properties>
+        <string>Title</string>
+        <string>BackgroundImageSource</string>
+        <string>IconImageSource</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\DemoPizza1\Views\Register.xaml</FilePath>
+      <Hash>2B-9A-E1-3B-3E-AA-67-91-60-FC-28-65-C1-5E-F7-31</Hash>
+      <Properties />
+    </XamlFileMeta>
+  </Files>
+</XamlProjectMeta>

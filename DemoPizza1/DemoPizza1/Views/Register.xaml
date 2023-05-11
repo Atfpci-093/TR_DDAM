@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="DemoPizza1.Views.Page1"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+    <ContentPage.Content>
+        <Grid>
+            <Image
+                Aspect="AspectFill"
+                Opacity="0.7"
+                Source="BP.jpg" />
+
+            <Grid
+                Margin="40,100,40,0"
+                Padding="20"
+                BackgroundColor="#80F8F1E7"
+                VerticalOptions="CenterAndExpand">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="auto" />
+                </Grid.RowDefinitions>
+
+                <StackLayout Grid.Row="0">
+                    <Label
+                        Margin="0,0,0,20"
+                        FontAttributes="Bold"
+                        FontSize="30"
+                        HorizontalOptions="CenterAndExpand"
+                        Text="Registro"
+                        TextColor="#FF8E00" />
+
+                    <Entry
+                        x:Name="T_Nombre"
+                        Margin="0,0,0,20"
+                        HeightRequest="40"
+                        Placeholder="Nombre"
+                        PlaceholderColor="#F98F24"
+                        TextColor="#FF8E00"
+                        WidthRequest="200" />
+                    <Entry
+                        x:Name="T_Apellido"
+                        Margin="0,0,0,20"
+                        HeightRequest="40"
+                        Placeholder="Apellido"
+                        PlaceholderColor="#F98F24"
+                        TextColor="#FF8E00"
+                        WidthRequest="200" />
+                    <Entry
+                        x:Name="T_Correo"
+                        Margin="0,0,0,20"
+                        HeightRequest="40"
+                        Placeholder="Correo"
+                        PlaceholderColor="#F98F24"
+                        TextColor="#FF8E00"
+                        WidthRequest="420" />
+
+                    <Entry
+                        x:Name="T_Contraseña"
+                        Margin="0,0,0,20"
+                        HeightRequest="40"
+                        IsPassword="True"
+                        Placeholder="Contraseña"
+                        PlaceholderColor="#F98F24"
+                        TextColor="#FF8E00"
+                        WidthRequest="200" />
+                    <Entry
+                        x:Name="T_NomUsuario"
+                        HeightRequest="40"
+                        Placeholder="Nombre de usuario"
+                        PlaceholderColor="#F98F24"
+                        TextColor="#FF8E00"
+                        WidthRequest="200" />
+                    <Button
+                        Margin="0,20,0,0"
+                        BackgroundColor="#FF8E00"
+                        Clicked="Button_Clicked"
+                        HeightRequest="40"
+                        Text="Registrarse"
+                        TextColor="White"
+                        WidthRequest="200" />
+                </StackLayout>
+
+                <StackLayout Margin="58,450,0,0" Orientation="Horizontal">
+                    <Label
+                        Margin="0,33,0,0"
+                        BackgroundColor="#00E2700E"
+                        FontAttributes="Bold"
+                        FontSize="12"
+                        HeightRequest="35"
+                        Text="¿Ya tienes una cuenta?"
+                        TextColor="#CB3D00"
+                        VerticalOptions="Center" />
+
+                    <Button
+                        Margin="0,20,0,0"
+                        BackgroundColor="#00E2700E"
+                        Clicked="Button_Clicked_1"
+                        FontAttributes="Bold"
+                        FontSize="12"
+                        HeightRequest="35"
+                        Text="INICIAR SESIÓN"
+                        TextColor="#CB3D00"
+                        VerticalOptions="Center" />
+                </StackLayout>
+            </Grid>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,82 @@
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\bin\Debug\netstandard2.0\DemoPizza1.deps.json
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\bin\Debug\netstandard2.0\DemoPizza1.dll
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\bin\Debug\netstandard2.0\ref\DemoPizza1.dll
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\bin\Debug\netstandard2.0\DemoPizza1.pdb
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\DemoPizza1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\Home.xaml.g.cs
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\MenuBebidas.xaml.g.cs
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\MenuCocteles.xaml.g.cs
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\MenuPizza.xaml.g.cs
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\DemoPizza1.AssemblyInfoInputs.cache
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\DemoPizza1.AssemblyInfo.cs
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\DemoPizza1.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\DemoPizza1.dll
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\ref\DemoPizza1.dll
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\DemoPizza1.pdb
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\DemoPizza1.csproj.AssemblyReference.cache
+C:\Users\FERNANDO\Downloads\DemoPizza1\DemoPizza1\DemoPizza1\bin\Debug\netstandard2.0\DemoPizza1.deps.json
+C:\Users\FERNANDO\Downloads\DemoPizza1\DemoPizza1\DemoPizza1\bin\Debug\netstandard2.0\DemoPizza1.dll
+C:\Users\FERNANDO\Downloads\DemoPizza1\DemoPizza1\DemoPizza1\bin\Debug\netstandard2.0\ref\DemoPizza1.dll
+C:\Users\FERNANDO\Downloads\DemoPizza1\DemoPizza1\DemoPizza1\bin\Debug\netstandard2.0\DemoPizza1.pdb
+C:\Users\FERNANDO\Downloads\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\DemoPizza1.csproj.AssemblyReference.cache
+C:\Users\FERNANDO\Downloads\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\DemoPizza1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FERNANDO\Downloads\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\DemoPizza1.AssemblyInfoInputs.cache
+C:\Users\FERNANDO\Downloads\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\DemoPizza1.AssemblyInfo.cs
+C:\Users\FERNANDO\Downloads\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\DemoPizza1.csproj.CoreCompileInputs.cache
+C:\Users\FERNANDO\Downloads\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\FERNANDO\Downloads\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\DemoPizza1.dll
+C:\Users\FERNANDO\Downloads\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\ref\DemoPizza1.dll
+C:\Users\FERNANDO\Downloads\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\DemoPizza1.pdb
+C:\Users\FERNANDO\Downloads\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\FERNANDO\Downloads\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\Views\Home.xaml.g.cs
+C:\Users\FERNANDO\Downloads\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\FERNANDO\Downloads\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\Views\MenuBebidas.xaml.g.cs
+C:\Users\FERNANDO\Downloads\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\Views\MenuCocteles.xaml.g.cs
+C:\Users\FERNANDO\Downloads\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\Views\MenuPizza.xaml.g.cs
+C:\Users\FERNANDO\Downloads\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\Views\Login.xaml.g.cs
+C:\Users\FERNANDO\Downloads\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\Views\Register.xaml.g.cs
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\DemoPizza1\bin\Debug\netstandard2.0\DemoPizza1.deps.json
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\DemoPizza1\bin\Debug\netstandard2.0\DemoPizza1.dll
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\DemoPizza1\bin\Debug\netstandard2.0\ref\DemoPizza1.dll
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\DemoPizza1\bin\Debug\netstandard2.0\DemoPizza1.pdb
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\DemoPizza1.csproj.AssemblyReference.cache
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\DemoPizza1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\Views\Home.xaml.g.cs
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\Views\Login.xaml.g.cs
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\Views\MenuBebidas.xaml.g.cs
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\Views\MenuCocteles.xaml.g.cs
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\Views\MenuPizza.xaml.g.cs
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\Views\Register.xaml.g.cs
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\DemoPizza1.AssemblyInfoInputs.cache
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\DemoPizza1.AssemblyInfo.cs
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\DemoPizza1.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\DemoPizza1.dll
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\ref\DemoPizza1.dll
+C:\Users\Windows 10\source\repos\DemoPizza1\DemoPizza1\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\DemoPizza1.pdb
+C:\Users\FERNANDO\Downloads\DemoPizza1 (4)\DemoPizza1\DemoPizza1\bin\Debug\netstandard2.0\DemoPizza1.deps.json
+C:\Users\FERNANDO\Downloads\DemoPizza1 (4)\DemoPizza1\DemoPizza1\bin\Debug\netstandard2.0\DemoPizza1.dll
+C:\Users\FERNANDO\Downloads\DemoPizza1 (4)\DemoPizza1\DemoPizza1\bin\Debug\netstandard2.0\ref\DemoPizza1.dll
+C:\Users\FERNANDO\Downloads\DemoPizza1 (4)\DemoPizza1\DemoPizza1\bin\Debug\netstandard2.0\DemoPizza1.pdb
+C:\Users\FERNANDO\Downloads\DemoPizza1 (4)\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\DemoPizza1.csproj.AssemblyReference.cache
+C:\Users\FERNANDO\Downloads\DemoPizza1 (4)\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\DemoPizza1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FERNANDO\Downloads\DemoPizza1 (4)\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\FERNANDO\Downloads\DemoPizza1 (4)\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\Views\Home.xaml.g.cs
+C:\Users\FERNANDO\Downloads\DemoPizza1 (4)\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\Views\Login.xaml.g.cs
+C:\Users\FERNANDO\Downloads\DemoPizza1 (4)\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\FERNANDO\Downloads\DemoPizza1 (4)\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\Views\MenuBebidas.xaml.g.cs
+C:\Users\FERNANDO\Downloads\DemoPizza1 (4)\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\Views\MenuCocteles.xaml.g.cs
+C:\Users\FERNANDO\Downloads\DemoPizza1 (4)\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\Views\MenuPizza.xaml.g.cs
+C:\Users\FERNANDO\Downloads\DemoPizza1 (4)\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\Views\Register.xaml.g.cs
+C:\Users\FERNANDO\Downloads\DemoPizza1 (4)\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\DemoPizza1.AssemblyInfoInputs.cache
+C:\Users\FERNANDO\Downloads\DemoPizza1 (4)\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\DemoPizza1.AssemblyInfo.cs
+C:\Users\FERNANDO\Downloads\DemoPizza1 (4)\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\DemoPizza1.csproj.CoreCompileInputs.cache
+C:\Users\FERNANDO\Downloads\DemoPizza1 (4)\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\FERNANDO\Downloads\DemoPizza1 (4)\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\DemoPizza1.dll
+C:\Users\FERNANDO\Downloads\DemoPizza1 (4)\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\ref\DemoPizza1.dll
+C:\Users\FERNANDO\Downloads\DemoPizza1 (4)\DemoPizza1\DemoPizza1\obj\Debug\netstandard2.0\DemoPizza1.pdb

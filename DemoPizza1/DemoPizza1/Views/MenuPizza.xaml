@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="DemoPizza1.MenuPizza"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="Pizzas"
+    BackgroundImageSource="background.png"
+    IconImageSource="pizzas.png">
+
+    <ScrollView>
+        <StackLayout Orientation="Vertical">
+
+            <Frame
+                Margin="20"
+                Padding="0"
+                BackgroundColor="#99411B03"
+                CornerRadius="10"
+                HeightRequest="120"
+                OutlineColor="#D55C21">
+                <StackLayout Orientation="Horizontal">
+                    <StackLayout BackgroundColor="#00000000">
+                        <Image
+                            Margin="0,8,0,0"
+                            HeightRequest="100"
+                            Source="pizza1.jpg"
+                            WidthRequest="120" />
+                    </StackLayout>
+
+                    <StackLayout
+                        Margin="0,0,0,50"
+                        BackgroundColor="#00000000"
+                        VerticalOptions="StartAndExpand"
+                        WidthRequest="300">
+                        <Label
+                            Margin="20,15,0,0"
+                            FontAttributes="Bold"
+                            FontSize="16"
+                            Text="Pizza Americana"
+                            TextColor="#D55C21" />
+                        <Label
+                            Margin="20,0,0,0"
+                            FontAttributes="None"
+                            FontSize="Subtitle"
+                            Text="8 tajadas"
+                            TextColor="#D55C21" />
+                        <Label
+                            Margin="20,0,0,0"
+                            FontAttributes="Italic"
+                            FontSize="14"
+                            Text="S/29.99"
+                            TextColor="#99FFFFFC" />
+                    </StackLayout>
+                    <StackLayout Margin="0,0,0,0" BackgroundColor="#00000000">
+                        <Button
+                            Margin="0,0,0,0"
+                            BackgroundColor="#D55C21"
+                            CornerRadius="10"
+                            HeightRequest="120"
+                            Opacity="20"
+                            Text="AÑADIR"
+                            TextColor="White" />
+                    </StackLayout>
+                </StackLayout>
+            </Frame>
+            <Frame
+                Margin="20"
+                Padding="0"
+                BackgroundColor="#99411B03"
+                CornerRadius="10"
+                HeightRequest="120"
+                OutlineColor="#D55C21">
+                <StackLayout Orientation="Horizontal">
+                    <StackLayout BackgroundColor="#00000000">
+                        <Image
+                            Margin="0,8,0,0"
+                            HeightRequest="100"
+                            Source="pizza4.jpg"
+                            WidthRequest="120" />
+                    </StackLayout>
+
+                    <StackLayout
+                        Margin="0,0,0,50"
+                        BackgroundColor="#00000000"
+                        VerticalOptions="StartAndExpand"
+                        WidthRequest="300">
+                        <Label
+                            Margin="20,15,0,0"
+                            FontAttributes="Bold"
+                            FontSize="16"
+                            Text="Peperoni"
+                            TextColor="#D55C21" />
+                        <Label
+                            Margin="20,0,0,0"
+                            FontAttributes="None"
+                            FontSize="Subtitle"
+                            Text="8 tajadas"
+                            TextColor="#D55C21" />
+                        <Label
+                            Margin="20,0,0,0"
+                            FontAttributes="Italic"
+                            FontSize="14"
+                            Text="S/29.99"
+                            TextColor="#99FFFFFC" />
+                    </StackLayout>
+                    <StackLayout Margin="0,0,0,0" BackgroundColor="#00000000">
+                        <Button
+                            Margin="0,0,0,0"
+                            BackgroundColor="#D55C21"
+                            CornerRadius="10"
+                            HeightRequest="120"
+                            Opacity="20"
+                            Text="AÑADIR"
+                            TextColor="White" />
+                    </StackLayout>
+                </StackLayout>
+            </Frame>
+
+
+            <Frame
+                Margin="20"
+                Padding="0"
+                BackgroundColor="#99411B03"
+                CornerRadius="10"
+                HeightRequest="120"
+                OutlineColor="#D55C21">
+                <StackLayout Orientation="Horizontal">
+                    <StackLayout BackgroundColor="#00000000">
+                        <Image
+                            Margin="0,8,0,0"
+                            HeightRequest="100"
+                            Source="pizza5.jpg"
+                            WidthRequest="120" />
+                    </StackLayout>
+
+                    <StackLayout
+                        Margin="0,0,0,50"
+                        BackgroundColor="#00000000"
+                        VerticalOptions="StartAndExpand"
+                        WidthRequest="300">
+                        <Label
+                            Margin="20,15,0,0"
+                            FontAttributes="Bold"
+                            FontSize="16"
+                            Text="Italiana"
+                            TextColor="#D55C21" />
+                        <Label
+                            Margin="20,0,0,0"
+                            FontAttributes="None"
+                            FontSize="Subtitle"
+                            Text="8 tajadas"
+                            TextColor="#D55C21" />
+                        <Label
+                            Margin="20,0,0,0"
+                            FontAttributes="Italic"
+                            FontSize="14"
+                            Text="S/29.99"
+                            TextColor="#99FFFFFC" />
+                    </StackLayout>
+                    <StackLayout Margin="0,0,0,0" BackgroundColor="#00000000">
+                        <Button
+                            Margin="0,0,0,0"
+                            BackgroundColor="#D55C21"
+                            CornerRadius="10"
+                            HeightRequest="120"
+                            Opacity="20"
+                            Text="AÑADIR"
+                            TextColor="White" />
+                    </StackLayout>
+                </StackLayout>
+            </Frame>
+
+            <Frame
+                Margin="20"
+                Padding="0"
+                BackgroundColor="#99411B03"
+                CornerRadius="10"
+                HeightRequest="120"
+                OutlineColor="#D55C21">
+                <StackLayout Orientation="Horizontal">
+                    <StackLayout BackgroundColor="#00000000">
+                        <Image
+                            Margin="10,25,0,0"
+                            HeightRequest="70"
+                            Source="pizza8.jpg"
+                            WidthRequest="110" />
+                    </StackLayout>
+
+                    <StackLayout
+                        Margin="0,0,0,50"
+                        BackgroundColor="#00000000"
+                        VerticalOptions="StartAndExpand"
+                        WidthRequest="300">
+                        <Label
+                            Margin="20,15,0,0"
+                            FontAttributes="Bold"
+                            FontSize="16"
+                            Text="Hawaiana"
+                            TextColor="#D55C21" />
+                        <Label
+                            Margin="20,0,0,0"
+                            FontAttributes="None"
+                            FontSize="Subtitle"
+                            Text="8 tajadas"
+                            TextColor="#D55C21" />
+                        <Label
+                            Margin="20,0,0,0"
+                            FontAttributes="Italic"
+                            FontSize="14"
+                            Text="S/29.99"
+                            TextColor="#99FFFFFC" />
+                    </StackLayout>
+                    <StackLayout Margin="0,0,0,0" BackgroundColor="#00000000">
+                        <Button
+                            Margin="0,0,0,0"
+                            BackgroundColor="#D55C21"
+                            CornerRadius="10"
+                            HeightRequest="120"
+                            Opacity="20"
+                            Text="AÑADIR"
+                            TextColor="White" />
+                    </StackLayout>
+                </StackLayout>
+            </Frame>
+
+            <Frame
+                Margin="20"
+                Padding="0"
+                BackgroundColor="#99411B03"
+                CornerRadius="10"
+                HeightRequest="120"
+                OutlineColor="#D55C21">
+                <StackLayout Orientation="Horizontal">
+                    <StackLayout BackgroundColor="#00000000">
+                        <Image
+                            Margin="10,25,0,0"
+                            HeightRequest="70"
+                            Source="pizza9.jpg"
+                            WidthRequest="110" />
+                    </StackLayout>
+
+                    <StackLayout
+                        Margin="0,0,0,50"
+                        BackgroundColor="#00000000"
+                        VerticalOptions="StartAndExpand"
+                        WidthRequest="300">
+                        <Label
+                            Margin="20,15,0,0"
+                            FontAttributes="Bold"
+                            FontSize="16"
+                            Text="Super Meat"
+                            TextColor="#D55C21" />
+                        <Label
+                            Margin="20,0,0,0"
+                            FontAttributes="None"
+                            FontSize="Subtitle"
+                            Text="8 tajadas"
+                            TextColor="#D55C21" />
+                        <Label
+                            Margin="20,0,0,0"
+                            FontAttributes="Italic"
+                            FontSize="14"
+                            Text="S/39.99"
+                            TextColor="#99FFFFFC" />
+                    </StackLayout>
+                    <StackLayout Margin="0,0,0,0" BackgroundColor="#00000000">
+                        <Button
+                            Margin="0,0,0,0"
+                            BackgroundColor="#D55C21"
+                            CornerRadius="10"
+                            HeightRequest="120"
+                            Opacity="20"
+                            Text="AÑADIR"
+                            TextColor="White" />
+                    </StackLayout>
+                </StackLayout>
+            </Frame>
+
+            <Frame
+                Margin="20"
+                Padding="0"
+                BackgroundColor="#99411B03"
+                CornerRadius="10"
+                HeightRequest="120"
+                OutlineColor="#D55C21">
+                <StackLayout Orientation="Horizontal">
+                    <StackLayout BackgroundColor="#00000000">
+                        <Image
+                            Margin="10,25,0,0"
+                            HeightRequest="70"
+                            Source="pizza3.jpg"
+                            WidthRequest="110" />
+                    </StackLayout>
+
+                    <StackLayout
+                        Margin="0,0,0,50"
+                        BackgroundColor="#00000000"
+                        VerticalOptions="StartAndExpand"
+                        WidthRequest="300">
+                        <Label
+                            Margin="20,15,0,0"
+                            FontAttributes="Bold"
+                            FontSize="16"
+                            Text="Roll-Ups"
+                            TextColor="#D55C21" />
+                        <Label
+                            Margin="20,0,0,0"
+                            FontAttributes="None"
+                            FontSize="Subtitle"
+                            Text="6 piezas"
+                            TextColor="#D55C21" />
+                        <Label
+                            Margin="20,0,0,0"
+                            FontAttributes="Italic"
+                            FontSize="14"
+                            Text="S/19.99"
+                            TextColor="#99FFFFFC" />
+                    </StackLayout>
+                    <StackLayout Margin="0,0,0,0" BackgroundColor="#00000000">
+                        <Button
+                            Margin="0,0,0,0"
+                            BackgroundColor="#D55C21"
+                            CornerRadius="10"
+                            HeightRequest="120"
+                            Opacity="20"
+                            Text="AÑADIR"
+                            TextColor="White" />
+                    </StackLayout>
+                </StackLayout>
+            </Frame>
+
+
+        </StackLayout>
+    </ScrollView>
+
+</ContentPage>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XamlProjectMeta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Files>
+    <XamlFileMeta>
+      <FilePath>C:\Users\FERNANDO\Downloads\DemoPizza1 (4)\DemoPizza1\DemoPizza1\App.xaml</FilePath>
+      <Hash>FC-D3-8E-CD-72-6E-E7-18-F5-93-58-B2-C5-07-0D-93</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\FERNANDO\Downloads\DemoPizza1 (4)\DemoPizza1\DemoPizza1\Views\Home.xaml</FilePath>
+      <Hash>59-70-B2-81-74-C2-4A-88-D4-40-46-9E-AA-6A-AF-AE</Hash>
+      <Properties>
+        <string>Title</string>
+        <string>BackgroundImageSource</string>
+        <string>IconImageSource</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\FERNANDO\Downloads\DemoPizza1 (4)\DemoPizza1\DemoPizza1\Views\Login.xaml</FilePath>
+      <Hash>52-53-B1-F7-4F-F5-C6-E9-DF-30-09-3D-12-3F-3E-BE</Hash>
+      <Properties>
+        <string>Shell.NavBarIsVisible</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\FERNANDO\Downloads\DemoPizza1 (4)\DemoPizza1\DemoPizza1\Views\MainPage.xaml</FilePath>
+      <Hash>8D-4B-C9-19-9E-38-5A-EF-AB-51-7F-59-77-DC-B7-1F</Hash>
+      <Properties>
+        <string>BarBackgroundColor</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\FERNANDO\Downloads\DemoPizza1 (4)\DemoPizza1\DemoPizza1\Views\MenuBebidas.xaml</FilePath>
+      <Hash>CF-D4-35-98-23-31-B5-49-2B-82-B8-03-00-83-EF-1A</Hash>
+      <Properties>
+        <string>Title</string>
+        <string>BackgroundImageSource</string>
+        <string>IconImageSource</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\FERNANDO\Downloads\DemoPizza1 (4)\DemoPizza1\DemoPizza1\Views\MenuCocteles.xaml</FilePath>
+      <Hash>08-C8-BA-A4-FC-66-6A-A6-8B-1C-B1-91-64-99-3D-6D</Hash>
+      <Properties>
+        <string>Title</string>
+        <string>BackgroundImageSource</string>
+        <string>IconImageSource</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\FERNANDO\Downloads\DemoPizza1 (4)\DemoPizza1\DemoPizza1\Views\MenuPizza.xaml</FilePath>
+      <Hash>35-CA-F3-47-C9-81-5B-95-DB-F9-27-AE-48-FD-02-E6</Hash>
+      <Properties>
+        <string>Title</string>
+        <string>BackgroundImageSource</string>
+        <string>IconImageSource</string>
+      </Properties>
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\FERNANDO\Downloads\DemoPizza1 (4)\DemoPizza1\DemoPizza1\Views\Register.xaml</FilePath>
+      <Hash>2C-71-4A-EA-D4-EC-04-52-2F-6A-46-39-5B-48-B1-99</Hash>
+      <Properties />
+    </XamlFileMeta>
+  </Files>
+</XamlProjectMeta>

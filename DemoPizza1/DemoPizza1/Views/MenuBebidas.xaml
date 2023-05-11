@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="DemoPizza1.MenuBebidas"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="Bebidas"
+    BackgroundImageSource="bgbebidas.png"
+    IconImageSource="bebidas.png">
+
+
+    <ScrollView>
+        <StackLayout Orientation="Vertical">
+
+            <Frame
+                Margin="20"
+                Padding="0"
+                BackgroundColor="#99E2F1FB"
+                CornerRadius="10"
+                HeightRequest="120"
+                OutlineColor="AliceBlue">
+                <StackLayout Orientation="Horizontal">
+                    <StackLayout BackgroundColor="#00000000">
+                        <Image
+                            Margin="0,8,0,0"
+                            HeightRequest="100"
+                            Source="soda.jpg"
+                            WidthRequest="120" />
+                    </StackLayout>
+
+                    <StackLayout
+                        Margin="0,16,0,50"
+                        BackgroundColor="#00000000"
+                        VerticalOptions="StartAndExpand"
+                        WidthRequest="300">
+                        <Label
+                            Margin="20,15,0,0"
+                            FontAttributes="Bold"
+                            FontSize="16"
+                            Text="Gaseosa"
+                            TextColor="#E2F1FB" />
+                        <Label
+                            Margin="20,0,0,0"
+                            FontAttributes="Italic"
+                            FontSize="14"
+                            Text="S/19.99"
+                            TextColor="#D55C21" />
+                    </StackLayout>
+                    <StackLayout Margin="0,0,0,0" BackgroundColor="#00000000">
+                        <Button
+                            Margin="0,0,0,0"
+                            BackgroundColor="White"
+                            CornerRadius="10"
+                            HeightRequest="120"
+                            Opacity="20"
+                            Text="AÑADIR"
+                            TextColor="#D55C21" />
+                    </StackLayout>
+                </StackLayout>
+
+            </Frame>
+            <Frame
+                Margin="20"
+                Padding="0"
+                BackgroundColor="#99E2F1FB"
+                CornerRadius="10"
+                HeightRequest="120"
+                OutlineColor="AliceBlue">
+                <StackLayout Orientation="Horizontal">
+                    <StackLayout BackgroundColor="#00000000">
+                        <Image
+                            Margin="0,8,0,0"
+                            HeightRequest="100"
+                            Source="zumo.jpg"
+                            WidthRequest="120" />
+                    </StackLayout>
+
+                    <StackLayout
+                        Margin="0,16,0,50"
+                        BackgroundColor="#00000000"
+                        VerticalOptions="StartAndExpand"
+                        WidthRequest="300">
+                        <Label
+                            Margin="20,15,0,0"
+                            FontAttributes="Bold"
+                            FontSize="16"
+                            Text="Zumo de frutas"
+                            TextColor="#E2F1FB" />
+                        <Label
+                            Margin="20,0,0,0"
+                            FontAttributes="Italic"
+                            FontSize="14"
+                            Text="S/7.99"
+                            TextColor="#D55C21" />
+                    </StackLayout>
+                    <StackLayout Margin="0,0,0,0" BackgroundColor="#00000000">
+                        <Button
+                            Margin="0,0,0,0"
+                            BackgroundColor="White"
+                            CornerRadius="10"
+                            HeightRequest="120"
+                            Opacity="20"
+                            Text="AÑADIR"
+                            TextColor="#D55C21" />
+                    </StackLayout>
+                </StackLayout>
+
+            </Frame>
+            <Frame
+                Margin="20"
+                Padding="0"
+                BackgroundColor="#99E2F1FB"
+                CornerRadius="10"
+                HeightRequest="120"
+                OutlineColor="AliceBlue">
+                <StackLayout Orientation="Horizontal">
+                    <StackLayout BackgroundColor="#00000000">
+                        <Image
+                            Margin="0,8,0,0"
+                            HeightRequest="100"
+                            Source="vino.jpg"
+                            WidthRequest="120" />
+                    </StackLayout>
+
+                    <StackLayout
+                        Margin="0,16,0,50"
+                        BackgroundColor="#00000000"
+                        VerticalOptions="StartAndExpand"
+                        WidthRequest="300">
+                        <Label
+                            Margin="20,15,0,0"
+                            FontAttributes="Bold"
+                            FontSize="16"
+                            Text="Vino rosa y tinto"
+                            TextColor="#E2F1FB" />
+                        <Label
+                            Margin="20,0,0,0"
+                            FontAttributes="Italic"
+                            FontSize="14"
+                            Text="S/89.99"
+                            TextColor="#D55C21" />
+                    </StackLayout>
+                    <StackLayout Margin="0,0,0,0" BackgroundColor="#00000000">
+                        <Button
+                            Margin="0,0,0,0"
+                            BackgroundColor="White"
+                            CornerRadius="10"
+                            HeightRequest="120"
+                            Opacity="20"
+                            Text="AÑADIR"
+                            TextColor="#D55C21" />
+                    </StackLayout>
+                </StackLayout>
+
+            </Frame>
+        </StackLayout>
+
+    </ScrollView>
+
+</ContentPage>

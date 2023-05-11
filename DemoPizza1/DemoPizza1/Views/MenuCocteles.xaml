@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="DemoPizza1.MenuCocteles"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="Nosotros"
+    BackgroundImageSource="bp.png"
+    IconImageSource="grupo.png">
+
+    <ContentPage.Content>
+        <ScrollView>
+
+            <Grid>
+                <BoxView
+                    HorizontalOptions="FillAndExpand"
+                    IsVisible="True"
+                    VerticalOptions="FillAndExpand"
+                    Color="#CC000000" />
+                <StackLayout>
+                    <Image
+                        Margin="20"
+                        HeightRequest="100"
+                        HorizontalOptions="Center"
+                        Source="cheemsperfil.png" />
+                    <Label
+                        Margin="20,0,0,0"
+                        FontAttributes="Bold"
+                        FontSize="Large"
+                        Text="NOSOTROS"
+                        TextColor="#F98F24" />
+                    <Label
+                        Margin="20,0,0,20"
+                        Text="Somos la cadena nacional de pizzerías más grande de todo el Perú fundada en el año 1994. Nuestra marca se ha consolidado a través de los años como una de las más prestigiosas cadenas de restaurantes del país, obligándonos a mejorar nuestra oferta culinaria día a día y brindando una buena atención al mejor precio, teniendo en la actualidad repartida más de 40 sucursales en Lima Metropolitana."
+                        TextColor="White" />
+
+                    <Label
+                        Margin="20,0,0,0"
+                        FontAttributes="Bold"
+                        FontSize="Large"
+                        Text="MISIÓN"
+                        TextColor="#F98F24" />
+                    <Label
+                        Margin="20,0,0,20"
+                        Text="Ser responsables, competitivos y empáticos para ofrecer a nuestros clientes un buen servicio y alimentos de calidad, buscar las nuevas formas de preparar las pizzas y pastas con el objetivo de mejorar cada día y con ello satisfacer al público más exigente."
+                        TextColor="White" />
+
+
+                    <!--<Label
+                        Margin="20,0,0,0"
+                        FontAttributes="Bold"
+                        FontSize="Large"
+                        Text="VISIÓN"
+                        TextColor="#F98F24" />
+                    <Label
+                        Margin="20,0,0,20"
+                        Text="Ser la mejor empresa de comida rápida en Lima-Perú, creceremos cada día hasta ser colocados en el primer lugar en ventas de comida rápida, seremos distinguidos  por nuestro excelente trato, rápida atención y costos accesibles al público, logrando de esta manera satisfacer las necesidades de nuestros clientes."
+                        TextColor="White" />-->
+
+
+                    <Label
+                        Margin="20,0,0,0"
+                        FontAttributes="Bold"
+                        FontSize="Large"
+                        Text="HISTORIA"
+                        TextColor="#F98F24" />
+
+                    <StackLayout Orientation="Horizontal" Spacing="10">
+                        <Image
+                            Margin="20,0,0,0"
+                            HeightRequest="200"
+                            Source="pizzeria.jpg"
+                            WidthRequest="200" />
+                        <Label
+                            Margin="20,0,0,0"
+                            Text="Bienvenidos a 'La Casa de la Pizza', un lugar donde la tradición italiana se fusiona con la pasión por la gastronomía. Nuestra historia comienza en la década de los 70, cuando nuestro fundador, Giovanni, decidió emigrar desde Italia a la ciudad en busca de nuevas oportunidades."
+                            TextColor="White" />
+                    </StackLayout>
+
+                    <Label
+                        Margin="20,0,0,10"
+                        Text="Sin embargo, nunca olvidó sus raíces y, con el tiempo, decidió abrir una pequeña pizzería con la receta que su familia había conservado por generaciones.  Con el tiempo, la calidad y el sabor de nuestras pizzas se hicieron famosos en la ciudad y hoy en día seguimos manteniendo los mismos estándares de calidad que en nuestros inicios. Cada pizza es elaborada a mano con los ingredientes más frescos y cuidadosamente seleccionados para garantizar un sabor inigualable.  Nos enorgullece ser una empresa familiar y llevar con nosotros la herencia culinaria de nuestro fundador. Siempre hemos creído que la clave del éxito está en hacer las cosas con amor y pasión, y eso es lo que ponemos en cada una de nuestras pizzas. ¡Gracias por ser parte de nuestra historia y dejarnos ser parte de la tuya!"
+                        TextColor="White" />
+
+                    <StackLayout
+                        Margin="20"
+                        HorizontalOptions="Center"
+                        Orientation="Horizontal">
+                        <Image Source="facebook.png">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped" />
+                            </Image.GestureRecognizers>
+                        </Image>
+
+                        <Image Source="gorjeo.png">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped_1" />
+                            </Image.GestureRecognizers>
+                        </Image>
+
+                        <Image Source="instagram.png">
+                            <Image.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped_2" />
+                            </Image.GestureRecognizers>
+                        </Image>
+                    </StackLayout>
+
+
+                    <!--<StackLayout>
+                        <Label Text="Conoce nuestra pizzería en este video:" />
+                    </StackLayout>-->
+
+                </StackLayout>
+            </Grid>
+
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

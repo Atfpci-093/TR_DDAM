@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="DemoPizza1.Home"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="Carrito"
+    BackgroundImageSource="bp.png"
+    IconImageSource="home_icon.png">
+    <ScrollView>
+        <StackLayout Orientation="Vertical">
+
+            <Frame
+                Margin="20"
+                Padding="10"
+                BackgroundColor="#99E2F1FB"
+                CornerRadius="30">
+                <StackLayout>
+                    <Label
+                        Padding="5"
+                        FontAttributes="Bold"
+                        FontSize="28"
+                        HorizontalOptions="Center"
+                        Text="LA BUENA PIZZA"
+                        TextColor="#D55C21" />
+                    <StackLayout Orientation="Horizontal">
+                        <Label
+                            x:Name="F_Fecha_Actual"
+                            Padding="20"
+                            FontAttributes="Bold"
+                            FontSize="14"
+                            HorizontalOptions="StartAndExpand"
+                            Text="Fecha: " />
+                        <Label
+                            x:Name="fechaLabel"
+                            Padding="20"
+                            FontAttributes="Bold"
+                            FontSize="14" />
+                    </StackLayout>
+                    <StackLayout Orientation="Horizontal">
+                        <Label
+                            Padding="20,0,20,10"
+                            FontAttributes="Bold"
+                            FontSize="14"
+                            HorizontalOptions="StartAndExpand"
+                            Text="Usuario: " />
+                        <Label
+                            x:Name="T_NomUsuario"
+                            Padding="20,0,20,10"
+                            FontAttributes="Bold"
+                            FontSize="14"
+                            Text="Usuario: " />
+                    </StackLayout>
+
+                    <Label
+                        FontSize="24"
+                        HorizontalTextAlignment="Center"
+                        Text="──────────────────"
+                        VerticalOptions="Center" />
+                    <Label
+                        FontAttributes="Bold"
+                        FontSize="24"
+                        HorizontalOptions="Center"
+                        Text="DETALLE DE COMPRA"
+                        TextColor="#D55C21"
+                        VerticalOptions="Fill" />
+
+
+                    <Frame
+                        Margin="20,5,20,5"
+                        Padding="0"
+                        BackgroundColor="#99E2F1FB"
+                        CornerRadius="10"
+                        HeightRequest="90"
+                        OutlineColor="AliceBlue">
+                        <StackLayout Orientation="Horizontal">
+                            <StackLayout BackgroundColor="#00000000">
+                                <Image
+                                    Margin="3,5,0,0"
+                                    HeightRequest="80"
+                                    Source="soda.jpg"
+                                    WidthRequest="80" />
+                            </StackLayout>
+
+                            <StackLayout
+                                Margin="170,16,0,0"
+                                BackgroundColor="#00000000"
+                                VerticalOptions="StartAndExpand"
+                                WidthRequest="150">
+                                <Label
+                                    Margin="20,0,0,0"
+                                    FontAttributes="Bold"
+                                    FontSize="16"
+                                    Text="Gaseosa"
+                                    TextColor="#D55C21" />
+                                <Label
+                                    Margin="20,0,0,0"
+                                    FontAttributes="Italic"
+                                    FontSize="14"
+                                    Text="S/19.99"
+                                    TextColor="#D55C21" />
+                            </StackLayout>
+                        </StackLayout>
+
+                    </Frame>
+                    <Frame
+                        Margin="20,5,20,5"
+                        Padding="0"
+                        BackgroundColor="#99E2F1FB"
+                        CornerRadius="10"
+                        HeightRequest="90"
+                        OutlineColor="AliceBlue">
+                        <StackLayout Orientation="Horizontal">
+                            <StackLayout BackgroundColor="#00000000">
+                                <Image
+                                    Margin="3,5,0,0"
+                                    HeightRequest="80"
+                                    Source="PIZZA3.jpg"
+                                    WidthRequest="80" />
+                            </StackLayout>
+
+                            <StackLayout
+                                Margin="170,16,0,0"
+                                BackgroundColor="#00000000"
+                                VerticalOptions="StartAndExpand"
+                                WidthRequest="150">
+                                <Label
+                                    Margin="20,0,0,0"
+                                    FontAttributes="Bold"
+                                    FontSize="16"
+                                    Text="Roll-Ups"
+                                    TextColor="#D55C21" />
+                                <Label
+                                    Margin="20,0,0,0"
+                                    FontAttributes="Italic"
+                                    FontSize="14"
+                                    Text="S/19.99"
+                                    TextColor="#D55C21" />
+                            </StackLayout>
+                        </StackLayout>
+
+                    </Frame>
+                    <Frame
+                        Margin="20,5,20,5"
+                        Padding="0"
+                        BackgroundColor="#99E2F1FB"
+                        CornerRadius="10"
+                        HeightRequest="90"
+                        OutlineColor="AliceBlue">
+                        <StackLayout Orientation="Horizontal">
+                            <StackLayout BackgroundColor="#00000000">
+                                <Image
+                                    Margin="3,5,0,0"
+                                    HeightRequest="80"
+                                    Source="VINO.jpg"
+                                    WidthRequest="80" />
+                            </StackLayout>
+
+                            <StackLayout
+                                Margin="170,16,0,0"
+                                BackgroundColor="#00000000"
+                                VerticalOptions="StartAndExpand"
+                                WidthRequest="150">
+                                <Label
+                                    Margin="20,0,0,0"
+                                    FontAttributes="Bold"
+                                    FontSize="16"
+                                    Text="Vino Rosa"
+                                    TextColor="#D55C21" />
+                                <Label
+                                    Margin="20,0,0,0"
+                                    FontAttributes="Italic"
+                                    FontSize="14"
+                                    Text="S/89.99"
+                                    TextColor="#D55C21" />
+                            </StackLayout>
+                        </StackLayout>
+
+                    </Frame>
+                    <Frame
+                        Margin="20,5,20,5"
+                        Padding="0"
+                        BackgroundColor="#99E2F1FB"
+                        CornerRadius="10"
+                        HeightRequest="90"
+                        OutlineColor="AliceBlue">
+                        <StackLayout Orientation="Horizontal">
+                            <StackLayout BackgroundColor="#00000000">
+                                <Image
+                                    Margin="3,5,0,0"
+                                    HeightRequest="80"
+                                    Source="PIZZA4.jpg"
+                                    WidthRequest="80" />
+                            </StackLayout>
+
+                            <StackLayout
+                                Margin="170,16,0,0"
+                                BackgroundColor="#00000000"
+                                VerticalOptions="StartAndExpand"
+                                WidthRequest="150">
+                                <Label
+                                    Margin="20,0,0,0"
+                                    FontAttributes="Bold"
+                                    FontSize="16"
+                                    Text="Peperoni"
+                                    TextColor="#D55C21" />
+                                <Label
+                                    Margin="20,0,0,0"
+                                    FontAttributes="Italic"
+                                    FontSize="14"
+                                    Text="S/29.99"
+                                    TextColor="#D55C21" />
+                            </StackLayout>
+                        </StackLayout>
+
+                    </Frame>
+                    <Frame
+                        Margin="20,5,20,5"
+                        Padding="0"
+                        BackgroundColor="#99E2F1FB"
+                        CornerRadius="10"
+                        HeightRequest="90"
+                        OutlineColor="AliceBlue">
+                        <StackLayout Orientation="Horizontal">
+                            <StackLayout BackgroundColor="#00000000">
+                                <Image
+                                    Margin="3,5,0,0"
+                                    HeightRequest="80"
+                                    Source="PIZZA5.jpg"
+                                    WidthRequest="80" />
+                            </StackLayout>
+
+                            <StackLayout
+                                Margin="170,16,0,0"
+                                BackgroundColor="#00000000"
+                                VerticalOptions="StartAndExpand"
+                                WidthRequest="150">
+                                <Label
+                                    Margin="20,0,0,0"
+                                    FontAttributes="Bold"
+                                    FontSize="16"
+                                    Text="Italiana"
+                                    TextColor="#D55C21" />
+                                <Label
+                                    Margin="20,0,0,0"
+                                    FontAttributes="Italic"
+                                    FontSize="14"
+                                    Text="S/29.99"
+                                    TextColor="#D55C21" />
+                            </StackLayout>
+                        </StackLayout>
+
+                    </Frame>
+                    <Button
+                        x:Name="btn_Comprar"
+                        Margin="20"
+                        BackgroundColor="#D55C21"
+                        CornerRadius="5"
+                        Text="Comprar"
+                        TextColor="White" />
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+    </ScrollView>
+
+
+</ContentPage>
